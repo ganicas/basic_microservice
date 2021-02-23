@@ -1,0 +1,15 @@
+# User-specific stuff:
+.idea/
+.coverage
+assets
+htmlcov
+cov_report.xml
+report.html
+report.xml
+
+### Python ###
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+log/*
